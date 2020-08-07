@@ -1,0 +1,61 @@
+lap_start
+music_start
+umpire_sleep 100
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 200
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 300
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 400
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 500
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 600
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 700
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 800
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 900
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 1000
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 1100
+music_stop
+lap_stop
+lap_start
+music_start
+umpire_sleep 30000
+music_stop
+lap_stop
+
